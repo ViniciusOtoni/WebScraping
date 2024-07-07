@@ -1,0 +1,518 @@
+Book_Category,Book_Title,Book_Price,Book_Price_BR,Book_Stock,Book_Stock_Available,Book_Rating
+Travel,It's Only the Himalayas,45.17,268.7615,True,19,2
+Travel,Full Moon over Noah’s Ark: An Odyssey to Mount Ararat and Beyond,49.43,294.1085,True,15,4
+Travel,See America: A Celebration of Our National Parks & Treasured Sites,48.87,290.7765,True,14,3
+Travel,Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel,36.94,219.793,True,8,2
+Travel,Under the Tuscan Sun,37.33,222.1135,True,7,3
+Travel,A Summer In Europe,44.34,263.82300000000004,True,7,2
+Travel,The Great Railway Bazaar,30.54,181.713,True,6,1
+Travel,A Year in Provence (Provence #1),56.88,338.43600000000004,True,6,4
+Travel,The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2),23.21,138.0995,True,3,1
+Travel,Neither Here nor There: Travels in Europe,38.95,231.75250000000003,True,3,3
+Travel,"1,000 Places to See Before You Die",26.08,155.176,True,1,5
+Mystery,Sharp Objects,47.82,284.529,True,20,4
+Mystery,"In a Dark, Dark Wood",19.63,116.7985,True,18,1
+Mystery,The Past Never Ends,56.5,336.175,True,16,4
+Mystery,A Murder in Time,16.64,99.00800000000001,True,16,1
+Mystery,The Murder of Roger Ackroyd (Hercule Poirot #4),44.1,262.39500000000004,True,15,4
+Mystery,The Last Mile (Amos Decker #2),54.21,322.5495,True,14,2
+Mystery,That Darkness (Gardiner and Renner #1),13.92,82.824,True,14,1
+Mystery,Tastes Like Fear (DI Marnie Rome #3),10.69,63.6055,True,14,1
+Mystery,A Time of Torment (Charlie Parker #14),48.35,287.6825,True,14,5
+Mystery,A Study in Scarlet (Sherlock Holmes #1),16.73,99.54350000000001,True,14,2
+Mystery,Poisonous (Max Revere Novels #3),26.8,159.46,True,12,3
+Mystery,Murder at the 42nd Street Library (Raymond Ambler #1),54.36,323.442,True,12,4
+Mystery,Most Wanted,35.28,209.91600000000003,True,12,3
+Mystery,Hide Away (Eve Duncan #20),11.84,70.44800000000001,True,12,1
+Mystery,Boar Island (Anna Pigeon #19),59.48,353.906,True,12,3
+Mystery,The Widow,27.26,162.197,True,11,2
+Mystery,Playing with Fire,13.71,81.5745,True,11,3
+Mystery,What Happened on Beale Street (Secrets of the South Mysteries #2),25.37,150.9515,True,7,5
+Mystery,The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1),52.3,311.185,True,7,5
+Mystery,Delivering the Truth (Quaker Midwife Mystery #1),20.89,124.2955,True,7,4
+Historical Fiction,Tipping the Velvet,53.74,319.75300000000004,True,20,1
+Historical Fiction,Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton,29.69,176.65550000000002,True,16,3
+Historical Fiction,A Flight of Arrows (The Pathfinders #2),55.53,330.4035,True,16,5
+Historical Fiction,The House by the Lake,36.95,219.85250000000002,True,15,1
+Historical Fiction,Mrs. Houdini,30.25,179.9875,True,15,5
+Historical Fiction,The Marriage of Opposites,28.08,167.076,True,14,4
+Historical Fiction,Glory over Everything: Beyond The Kitchen House,45.84,272.74800000000005,True,14,3
+Historical Fiction,"Love, Lies and Spies",20.55,122.27250000000001,True,12,2
+Historical Fiction,A Paris Apartment,39.01,232.1095,True,12,4
+Historical Fiction,Lilac Girls,17.28,102.81600000000002,True,11,2
+Historical Fiction,The Constant Princess (The Tudor Court #1),16.62,98.88900000000001,True,7,3
+Historical Fiction,The Invention of Wings,37.34,222.17300000000003,True,6,1
+Historical Fiction,World Without End (The Pillars of the Earth #2),32.97,196.1715,True,5,4
+Historical Fiction,The Passion of Dolssa,28.32,168.50400000000002,True,4,5
+Historical Fiction,Girl With a Pearl Earring,26.77,159.2815,True,4,1
+Historical Fiction,Voyager (Outlander #3),21.07,125.3665,True,3,5
+Historical Fiction,The Red Tent,35.66,212.177,True,3,5
+Historical Fiction,The Last Painting of Sara de Vos,55.55,330.5225,True,3,2
+Historical Fiction,The Guernsey Literary and Potato Peel Pie Society,49.53,294.7035,True,3,1
+Historical Fiction,Girl in the Blue Coat,46.83,278.6385,True,3,2
+Sequential Art,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),52.29,311.1255,True,19,5
+Sequential Art,Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2),16.28,96.86600000000001,True,16,1
+Sequential Art,This One Summer,19.49,115.96549999999999,True,16,4
+Sequential Art,The Nameless City (The Nameless City #1),38.16,227.052,True,16,4
+Sequential Art,"Saga, Volume 5 (Saga (Collected Editions) #5)",51.04,303.688,True,16,2
+Sequential Art,"Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)",50.4,299.88,True,16,3
+Sequential Art,"Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)",13.61,80.9795,True,16,5
+Sequential Art,"Pop Gun War, Volume 1: Gift",18.97,112.8715,True,16,1
+Sequential Art,Patience,10.16,60.452000000000005,True,16,3
+Sequential Art,"Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)",15.44,91.868,True,16,4
+Sequential Art,orange: The Complete Collection 1 (orange: The Complete Collection #1),48.41,288.0395,True,16,1
+Sequential Art,"Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)",46.91,279.11449999999996,True,16,2
+Sequential Art,"Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)",45.61,271.3795,True,16,3
+Sequential Art,Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12),19.92,118.52400000000002,True,16,2
+Sequential Art,"I Hate Fairyland, Vol. 1: Madly Ever After (I Hate Fairyland (Compilations) #1-5)",29.17,173.56150000000002,True,16,2
+Sequential Art,I am a Hero Omnibus Volume 1,54.63,325.04850000000005,True,16,3
+Sequential Art,"Giant Days, Vol. 2 (Giant Days #5-8)",22.11,131.5545,True,16,2
+Sequential Art,Danganronpa Volume 1,51.99,309.3405,True,16,4
+Sequential Art,"Codename Baboushka, Volume 1: The Conclave of Death",36.72,218.484,True,16,4
+Sequential Art,Camp Midnight,17.08,101.62599999999999,True,16,4
+Classics,The Secret Garden,15.08,89.726,True,5,4
+Classics,The Metamorphosis,28.58,170.051,True,5,1
+Classics,The Pilgrim's Progress,50.26,299.047,True,4,2
+Classics,The Hound of the Baskervilles (Sherlock Holmes #5),14.82,88.179,True,4,2
+Classics,Little Women (Little Women #1),28.07,167.0165,True,4,4
+Classics,Gone with the Wind,32.49,193.31550000000001,True,4,3
+Classics,Candide,58.63,348.8485,True,4,3
+Classics,Animal Farm,57.22,340.459,True,4,3
+Classics,Wuthering Heights,17.73,105.49350000000001,True,3,3
+Classics,The Picture of Dorian Gray,29.7,176.715,True,3,2
+Classics,The Complete Stories and Poems (The Works of Edgar Allan Poe [Cameo Edition]),26.78,159.341,True,3,4
+Classics,Beowulf,38.35,228.1825,True,3,2
+Classics,And Then There Were None,35.01,208.30949999999999,True,3,2
+Classics,The Story of Hong Gildong,43.19,256.9805,True,1,4
+Classics,The Little Prince,45.42,270.249,True,1,2
+Classics,Sense and Sensibility,37.46,222.887,True,1,1
+Classics,Of Mice and Men,47.11,280.3045,True,1,2
+Classics,Emma,32.93,195.9335,True,1,2
+Classics,Alice in Wonderland (Alice's Adventures in Wonderland #1),55.53,330.4035,True,1,1
+Philosophy,Sophie's World,15.94,94.843,True,18,5
+Philosophy,The Death of Humanity: and the Case for Life,58.11,345.7545,True,16,4
+Philosophy,The Stranger,17.44,103.76800000000001,True,15,4
+Philosophy,Proofs of God: Classical Arguments from Tertullian to Barth,54.21,322.5495,True,8,1
+Philosophy,Kierkegaard: A Christian Missionary to Christians,47.13,280.42350000000005,True,8,1
+Philosophy,"At The Existentialist Café: Freedom, Being, and apricot cocktails with: Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin Heidegger, Edmund Husserl, Karl Jaspers, Maurice Merleau-Ponty and others",29.93,178.08350000000002,True,7,5
+Philosophy,Critique of Pure Reason,20.75,123.4625,True,5,1
+Philosophy,"Run, Spot, Run: The Ethics of Keeping Pets",20.02,119.119,True,2,1
+Philosophy,The Nicomachean Ethics,36.34,216.223,True,1,1
+Philosophy,Meditations,25.89,154.0455,True,1,2
+Philosophy,Beyond Good and Evil,43.38,258.11100000000005,True,1,1
+Romance,Chase Me (Paris Nights #2),25.27,150.3565,True,19,5
+Romance,Black Dust,34.53,205.45350000000002,True,19,5
+Romance,Her Backup Boyfriend (The Sorensen Family #1),33.97,202.1215,True,16,1
+Romance,First and First (Five Boroughs #3),15.97,95.0215,True,16,4
+Romance,Fifty Shades Darker (Fifty Shades #2),21.96,130.662,True,16,1
+Romance,The Wedding Dress,24.12,143.514,True,15,1
+Romance,Suddenly in Love (Lake Haven #1),55.99,333.14050000000003,True,15,2
+Romance,Something More Than This,16.24,96.628,True,15,4
+Romance,Doing It Over (Most Likely To #1),35.61,211.8795,True,15,3
+Romance,The Wedding Pact (The O'Malleys #2),32.61,194.0295,True,14,3
+Romance,Hold Your Breath (Search and Rescue #1),28.82,171.479,True,14,1
+Romance,Dirty (Dive Bar #1),40.83,242.9385,True,12,4
+Romance,Take Me Home Tonight (Rock Star Romance #3),53.98,321.181,True,11,3
+Romance,Off the Hook (Fishing for Trouble #1),47.67,283.6365,True,11,3
+Romance,A Gentleman's Position (Society of Gentlemen #3),14.75,87.7625,True,11,5
+Romance,"Sit, Stay, Love",20.9,124.35499999999999,True,7,3
+Romance,A Girl's Guide to Moving On (New Beginnings #2),31.3,186.235,True,5,1
+Romance,The Perfect Play (Play by Play #1),59.99,356.94050000000004,True,4,3
+Romance,Dark Lover (Black Dagger Brotherhood #1),12.87,76.5765,True,4,1
+Romance,Changing the Game (Play by Play #2),13.38,79.611,True,4,3
+Womens Fiction,I Had a Nice Time And Other Lies...: How to find love & sh*t like that,57.36,341.29200000000003,True,15,4
+Womens Fiction,Will You Won't You Want Me?,13.86,82.467,True,12,3
+Womens Fiction,Keep Me Posted,20.46,121.73700000000001,True,11,4
+Womens Fiction,Grey (Fifty Shades #4),48.49,288.51550000000003,True,11,4
+Womens Fiction,Meternity,43.58,259.301,True,7,3
+Womens Fiction,Some Women,13.73,81.6935,True,4,5
+Womens Fiction,Shopaholic Ties the Knot (Shopaholic #3),48.39,287.9205,True,4,5
+Womens Fiction,Can You Keep a Secret?,21.94,130.543,True,4,1
+Womens Fiction,Twenties Girl,42.8,254.66,True,3,2
+Womens Fiction,The Undomestic Goddess,45.75,272.21250000000003,True,3,4
+Womens Fiction,The Nanny Diaries (Nanny #1),52.53,312.55350000000004,True,3,5
+Womens Fiction,The Devil Wears Prada (The Devil Wears Prada #1),44.29,263.5255,True,3,1
+Womens Fiction,Something Borrowed (Darcy & Rachel #1),48.96,291.312,True,3,5
+Womens Fiction,Something Blue (Darcy & Rachel #2),54.62,324.989,True,3,1
+Womens Fiction,I've Got Your Number,19.69,117.15550000000002,True,3,1
+Womens Fiction,The Edge of Reason (Bridget Jones #2),19.18,114.121,True,1,4
+Womens Fiction,Bridget Jones's Diary (Bridget Jones #1),29.82,177.429,True,1,1
+Fiction,Soumission,50.1,298.095,True,20,1
+Fiction,Private Paris (Private #10),47.61,283.2795,True,17,5
+Fiction,"We Love You, Charlie Freeman",50.27,299.10650000000004,True,16,5
+Fiction,Thirst,17.27,102.7565,True,16,5
+Fiction,The Murder That Never Was (Forensic Instincts #5),54.11,321.9545,True,16,3
+Fiction,Tuesday Nights in 1980,21.04,125.188,True,15,2
+Fiction,The Vacationers,42.15,250.7925,True,15,4
+Fiction,The Regional Office Is Under Attack!,51.36,305.592,True,15,5
+Fiction,Finders Keepers (Bill Hodges Trilogy #2),53.53,318.50350000000003,True,15,5
+Fiction,The Time Keeper,27.88,165.886,True,14,5
+Fiction,The Testament of Mary,52.67,313.3865,True,14,4
+Fiction,The First Hostage (J.B. Collins #2),25.85,153.8075,True,14,3
+Fiction,Take Me with You,45.21,268.9995,True,14,3
+Fiction,Still Life with Bread Crumbs,26.41,157.1395,True,14,3
+Fiction,Shtum,55.84,332.24800000000005,True,14,4
+Fiction,My Name Is Lucy Barton,41.56,247.282,True,14,1
+Fiction,My Mrs. Brown,24.48,145.656,True,14,3
+Fiction,Mr. Mercedes (Bill Hodges Trilogy #1),28.9,171.95499999999998,True,14,1
+Fiction,I Am Pilgrim (Pilgrim #1),10.6,63.07,True,14,4
+Fiction,Eligible (The Austen Project #4),27.09,161.1855,True,14,3
+Childrens,Birdsong: A Story in Pictures,54.64,325.108,True,19,3
+Childrens,The Bear and the Piano,36.89,219.49550000000002,True,18,1
+Childrens,The Secret of Dreadwillow Carse,56.13,333.9735,True,16,1
+Childrens,The White Cat and the Monk: A Retelling of the Poem “Pangur Bán”,58.08,345.576,True,15,4
+Childrens,Little Red,13.47,80.1465,True,15,3
+Childrens,Walt Disney's Alice in Wonderland,12.96,77.11200000000001,True,14,5
+Childrens,Twenty Yawns,22.08,131.376,True,14,2
+Childrens,Rain Fish,23.57,140.2415,True,14,3
+Childrens,Once Was a Time,18.28,108.766,True,14,2
+Childrens,Luis Paints the World,53.95,321.00250000000005,True,14,3
+Childrens,Nap-a-Roo,25.08,149.226,True,9,1
+Childrens,The Whale,35.96,213.96200000000002,True,7,4
+Childrens,"Shrunken Treasures: Literary Classics, Short, Sweet, and Silly",52.87,314.5765,True,7,3
+Childrens,Raymie Nightingale,34.41,204.7395,True,7,2
+Childrens,Playing from the Heart,32.38,192.66100000000003,True,7,1
+Childrens,Maybe Something Beautiful: How Art Transformed a Neighborhood,22.54,134.113,True,5,1
+Childrens,The Wild Robot,56.07,333.61650000000003,True,3,3
+Childrens,The Thing About Jellyfish,48.77,290.1815,True,3,1
+Childrens,The Lonely Ones,43.59,259.3605,True,3,5
+Childrens,The Day the Crayons Came Home (Crayons),26.33,156.6635,True,3,5
+Religion,"Don't Be a Jerk: And Other Practical Advice from Dogen, Japan's Greatest Zen Master",37.97,225.9215,True,16,2
+Religion,You Are What You Love: The Spiritual Power of Habit,21.87,130.12650000000002,True,15,4
+Religion,God: The Most Unpleasant Character in All Fiction,30.03,178.6785,True,14,5
+Religion,The Book of Mormon,24.57,146.19150000000002,True,9,3
+Religion,"A History of God: The 4,000-Year Quest of Judaism, Christianity, and Islam",27.62,164.339,True,4,1
+Religion,The Bhagavad Gita,57.49,342.06550000000004,True,1,3
+Religion,Choosing Our Religion: The Spiritual Lives of America's Nones,28.42,169.09900000000002,True,1,4
+Nonfiction,Worlds Elsewhere: Journeys Around Shakespeare’s Globe,40.3,239.785,True,18,5
+Nonfiction,The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,31.05,184.7475,True,18,3
+Nonfiction,Reasons to Stay Alive,26.41,157.1395,True,17,2
+Nonfiction,#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.,23.11,137.5045,True,17,5
+Nonfiction,"Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness",44.18,262.871,True,16,4
+Nonfiction,Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity,31.12,185.16400000000002,True,16,3
+Nonfiction,The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing,16.77,99.7815,True,16,3
+Nonfiction,The Gutsy Girl: Escapades for Your Life of Epic Adventure,37.13,220.92350000000002,True,16,1
+Nonfiction,The Electric Pencil: Drawings from Inside State Hospital No. 3,56.06,333.557,True,16,1
+Nonfiction,Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up,41.83,248.8885,True,16,4
+Nonfiction,Reskilling America: Learning to Labor in the Twenty-First Century,19.83,117.98849999999999,True,16,2
+Nonfiction,In the Country We Love: My Family Divided,22.0,130.9,True,16,4
+Nonfiction,Everydata: The Misinformation Hidden in the Little Data You Consume Every Day,54.35,323.3825,True,16,2
+Nonfiction,Call the Nurse: True Stories of a Country Nurse on a Scottish Isle,29.14,173.383,True,16,5
+Nonfiction,Algorithms to Live By: The Computer Science of Human Decisions,30.81,183.3195,True,16,1
+Nonfiction,The Power of Now: A Guide to Spiritual Enlightenment,43.54,259.063,True,15,2
+Nonfiction,The Omnivore's Dilemma: A Natural History of Four Meals,38.21,227.3495,True,15,2
+Nonfiction,The Genius of Birds,17.24,102.57799999999999,True,15,1
+Nonfiction,The Artist's Way: A Spiritual Path to Higher Creativity,38.49,229.01550000000003,True,15,5
+Nonfiction,So You've Been Publicly Shamed,12.23,72.7685,True,15,2
+Music,Rip it Up and Start Again,35.02,208.36900000000003,True,19,5
+Music,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",57.25,340.6375,True,19,3
+Music,How Music Works,37.32,222.054,True,19,2
+Music,Love Is a Mix Tape (Music #1),18.03,107.27850000000001,True,14,1
+Music,Please Kill Me: The Uncensored Oral History of Punk,31.19,185.5805,True,8,4
+Music,Kill 'Em and Leave: Searching for James Brown and the American Soul,45.05,268.0475,True,8,5
+Music,"Chronicles, Vol. 1",52.6,312.97,True,7,2
+Music,This Is Your Brain on Music: The Science of a Human Obsession,38.4,228.48,True,5,1
+Music,"Orchestra of Exiles: The Story of Bronislaw Huberman, the Israel Philharmonic, and the One Thousand Jews He Saved from Nazi Horrors",12.36,73.542,True,4,3
+Music,No One Here Gets Out Alive,20.02,119.119,True,4,5
+Music,Life,31.58,187.90099999999998,True,2,5
+Music,Old Records Never Die: One Man's Quest for His Vinyl and His Past,55.66,331.17699999999996,True,1,2
+Music,Forever Rockers (The Rocker #12),28.8,171.36,True,1,3
+Default,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",17.93,106.6835,True,19,3
+Default,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,22.6,134.47,True,19,4
+Default,"Starving Hearts (Triangular Trade Trilogy, #1)",13.99,83.2405,True,19,2
+Default,America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana,22.5,133.875,True,19,3
+Default,Aladdin and His Wonderful Lamp,53.13,316.12350000000004,True,19,3
+Default,Penny Maybe,33.29,198.0755,True,18,3
+Default,Maude (1883-1993):She Grew Up with the country,18.02,107.219,True,18,2
+Default,"The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer",20.59,122.51050000000001,True,16,5
+Default,Soul Reader,39.58,235.501,True,16,2
+Default,Bossypants,49.46,294.28700000000003,True,16,2
+Default,A World of Flavor: Your Gluten Free Passport,42.95,255.55250000000004,True,16,1
+Default,"A Piece of Sky, a Grain of Rice: A Memoir in Four Meditations",56.76,337.722,True,16,5
+Default,Tracing Numbers on a Train,41.6,247.52,True,15,3
+Default,Thirteen Reasons Why,52.72,313.684,True,15,1
+Default,The Secret (The Secret #1),27.37,162.85150000000002,True,15,4
+Default,The Psychopath Test: A Journey Through the Madness Industry,36.0,214.20000000000002,True,15,2
+Default,The Kite Runner,41.82,248.829,True,15,4
+Default,The Girl on the Train,55.02,327.369,True,15,2
+Default,The Emerald Mystery,23.15,137.7425,True,15,2
+Default,The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.,32.0,190.4,True,15,3
+Science Fiction,Mesaerion: The Best Science Fiction Stories 1800-1849,37.59,223.6605,True,19,1
+Science Fiction,Join,35.67,212.2365,True,16,5
+Science Fiction,"William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)",43.3,257.635,True,15,4
+Science Fiction,The Project,10.65,63.36750000000001,True,15,1
+Science Fiction,Soft Apocalypse,26.12,155.41400000000002,True,15,2
+Science Fiction,Sleeping Giants (Themis Files #1),48.74,290.00300000000004,True,11,1
+Science Fiction,Arena,21.36,127.092,True,11,4
+Science Fiction,Foundation (Foundation (Publication Order) #1),32.42,192.89900000000003,True,5,1
+Science Fiction,The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2),10.92,64.974,True,3,1
+Science Fiction,Ready Player One,19.07,113.46650000000001,True,3,4
+Science Fiction,"Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy #3)",33.26,197.897,True,3,2
+Science Fiction,Dune (Dune #1),54.86,326.41700000000003,True,3,1
+Science Fiction,Do Androids Dream of Electric Sheep? (Blade Runner #1),51.48,306.306,True,3,1
+Science Fiction,Three Wishes (River of Time: California #1),44.18,262.871,True,1,2
+Science Fiction,The Last Girl (The Dominion Trilogy #1),36.26,215.74699999999999,True,1,2
+Science Fiction,Having the Barbarian's Baby (Ice Planet Barbarians #7.5),34.96,208.012,True,1,4
+Sports and Games,The Book of Basketball: The NBA According to The Sports Guy,44.84,266.798,True,3,5
+Sports and Games,"Friday Night Lights: A Town, a Team, and a Dream",51.22,304.759,True,3,3
+Sports and Games,Sugar Rush (Offensive Line #2),24.42,145.299,True,2,1
+Sports and Games,Settling the Score (The Summer Games #1),44.91,267.2145,True,1,2
+Sports and Games,Icing (Aces Hockey #2),40.44,240.618,True,1,4
+Add a comment,The Torch Is Passed: A Harding Family Story,19.09,113.5855,True,16,1
+Add a comment,"The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy",23.89,142.1455,True,16,4
+Add a comment,The Art Forger,40.76,242.522,True,16,3
+Add a comment,On a Midnight Clear,14.07,83.71650000000001,True,16,3
+Add a comment,Judo: Seven Steps to Black Belt (an Introductory Guide for Beginners),53.9,320.705,True,16,2
+Add a comment,"Shobu Samurai, Project Aryoku (#3)",29.06,172.907,True,15,3
+Add a comment,Modern Romance,28.26,168.14700000000002,True,15,5
+Add a comment,The White Queen (The Cousins' War #1),25.91,154.1645,True,14,5
+Add a comment,The Song of Achilles,37.4,222.53,True,14,5
+Add a comment,The Immortal Life of Henrietta Lacks,40.67,241.9865,True,14,2
+Add a comment,The Dovekeepers,48.78,290.24100000000004,True,14,1
+Add a comment,More Than Music (Chasing the Dream #1),37.61,223.7795,True,14,2
+Add a comment,Code Name Verity (Code Name Verity #1),22.13,131.6735,True,14,4
+Add a comment,Cell,20.29,120.7255,True,14,4
+Add a comment,Angels Walking (Angels Walking #1),34.2,203.49,True,14,2
+Add a comment,"A Series of Catastrophes and Miracles: A True Story of Love, Science, and Cancer",56.48,336.056,True,14,2
+Add a comment,A People's History of the United States,40.79,242.7005,True,14,2
+Add a comment,A Brush of Wings (Angels Walking #3),55.51,330.2845,True,14,1
+Add a comment,Rook,37.86,225.267,True,13,4
+Add a comment,The Midnight Watch: A Novel of the Titanic and the Californian,26.2,155.89,True,12,1
+Fantasy,Unicorn Tracks,18.78,111.74100000000001,True,16,3
+Fantasy,"Saga, Volume 6 (Saga (Collected Editions) #6)",25.02,148.869,True,16,3
+Fantasy,Princess Between Worlds (Wide-Awake Princess #5),13.34,79.373,True,16,5
+Fantasy,Masks and Shadows,56.4,335.58,True,16,2
+Fantasy,Crown of Midnight (Throne of Glass #2),43.29,257.5755,True,16,3
+Fantasy,"Avatar: The Last Airbender: Smoke and Shadow, Part 3 (Smoke and Shadow #3)",28.09,167.1355,True,16,2
+Fantasy,A Court of Thorns and Roses (A Court of Thorns and Roses #1),52.37,311.6015,True,16,1
+Fantasy,Throne of Glass (Throne of Glass #1),35.07,208.6665,True,15,3
+Fantasy,The Glittering Court (The Glittering Court #1),44.28,263.466,True,15,1
+Fantasy,Hollow City (Miss Peregrine’s Peculiar Children #2),42.98,255.731,True,15,1
+Fantasy,The Star-Touched Queen,46.02,273.819,True,14,5
+Fantasy,The Hidden Oracle (The Trials of Apollo #1),52.26,310.947,True,14,2
+Fantasy,The Bane Chronicles (The Bane Chronicles #1-11),44.73,266.1435,True,14,4
+Fantasy,Island of Dragons (Unwanteds #7),29.65,176.4175,True,14,1
+Fantasy,Demigods & Magicians: Percy and Annabeth Meet the Kanes (Percy Jackson & Kane Chronicles Crossover #1-3),37.51,223.18449999999999,True,14,5
+Fantasy,City of Glass (The Mortal Instruments #3),56.02,333.319,True,14,4
+Fantasy,Searching for Meaning in Gailana,38.73,230.4435,True,13,1
+Fantasy,The Star-Touched Queen,32.3,192.185,True,12,5
+Fantasy,A Shard of Ice (The Black Symphony Saga #1),56.63,336.9485,True,9,3
+Fantasy,King's Folly (The Kinsman Chronicles #1),39.61,235.6795,True,7,5
+New Adult,Without Borders (Wanderlove #1),45.07,268.1665,True,16,2
+New Adult,The Mistake (Off-Campus #2),43.29,257.5755,True,15,3
+New Adult,The Matchmaker's Playbook (Wingmen Inc. #1),55.85,332.3075,True,15,1
+New Adult,The Hook Up (Game On #1),36.29,215.9255,True,1,5
+New Adult,Shameless,58.35,347.1825,True,1,3
+New Adult,Off Sides (Off #1),39.45,234.72750000000002,True,1,5
+Young Adult,The Requiem Red,22.65,134.76749999999998,True,19,1
+Young Adult,Set Me Free,17.46,103.88700000000001,True,19,5
+Young Adult,The Natural History of Us (The Fine Art of Pretending #2),45.22,269.059,True,16,3
+Young Adult,Obsidian (Lux #1),14.86,88.417,True,16,2
+Young Adult,Burning,28.81,171.4195,True,16,3
+Young Adult,A Fierce and Subtle Poison,28.13,167.3735,True,16,4
+Young Adult,Scarlett Epstein Hates It Here,43.55,259.1225,True,15,5
+Young Adult,"Nightingale, Sing",38.28,227.76600000000002,True,15,1
+Young Adult,Library of Souls (Miss Peregrine’s Peculiar Children #3),48.56,288.932,True,15,5
+Young Adult,Frostbite (Vampire Academy #2),29.99,178.4405,True,15,5
+Young Adult,Wild Swans,14.36,85.442,True,14,2
+Young Adult,Until Friday Night (The Field Party #1),46.31,275.5445,True,14,2
+Young Adult,This Is Where It Ends,27.12,161.364,True,14,2
+Young Adult,The Darkest Lie,35.35,210.3325,True,14,5
+Young Adult,My Kind of Crazy,40.36,240.142,True,14,1
+Young Adult,Don't Get Caught,55.35,329.33250000000004,True,14,1
+Young Adult,Catching Jordan (Hundred Oaks),50.83,302.4385,True,14,3
+Young Adult,Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante Discover the Secrets of the Universe #1),58.14,345.933,True,14,4
+Young Adult,The Epidemic (The Program 0.6),14.44,85.918,True,12,5
+Young Adult,Stars Above (The Lunar Chronicles #4.5),48.05,285.8975,True,12,2
+Science,The Most Perfect Thing: Inside (and Outside) a Bird's Egg,42.96,255.61200000000002,True,16,4
+Science,Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine,57.36,341.29200000000003,True,16,5
+Science,Sorting the Beef from the Bull: The Science of Food Fraud Forensics,44.74,266.20300000000003,True,14,4
+Science,Tipping Point for Planet Earth: How Close Are We to the Edge?,37.55,223.42249999999999,True,12,1
+Science,"The Fabric of the Cosmos: Space, Time, and the Texture of Reality",55.91,332.6645,True,9,1
+Science,Diary of a Citizen Scientist: Chasing Tiger Beetles and Other New Ways of Engaging the World,28.41,169.0395,True,8,1
+Science,The Origin of Species,10.01,59.5595,True,7,4
+Science,The Grand Design,13.76,81.872,True,5,3
+Science,Peak: Secrets from the New Science of Expertise,16.28,96.86600000000001,True,5,2
+Science,"The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",13.03,77.5285,True,3,4
+Science,"The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements",57.35,341.2325,True,3,5
+Science,"Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character",25.83,153.6885,True,3,2
+Science,Seven Brief Lessons on Physics,30.6,182.07000000000002,True,3,4
+Science,The Selfish Gene,29.45,175.2275,True,1,1
+Poetry,A Light in the Attic,51.77,308.03150000000005,True,22,3
+Poetry,The Black Maria,52.15,310.2925,True,19,1
+Poetry,Shakespeare's Sonnets,20.66,122.927,True,19,4
+Poetry,Olio,23.88,142.08599999999998,True,19,1
+Poetry,You can't bury them all: Poems,33.63,200.09850000000003,True,17,2
+Poetry,Slow States of Collapse: Poems,57.31,340.9945,True,17,3
+Poetry,Untitled Collection: Sabbath Poems 2014,14.27,84.9065,True,16,4
+Poetry,Poems That Make Grown Women Cry,14.19,84.4305,True,15,4
+Poetry,Night Sky with Exit Wounds,41.05,244.2475,True,15,1
+Poetry,salt.,46.78,278.341,True,14,4
+Poetry,"Quarter Life Poetry: Poems for the Young, Broke and Hangry",50.89,302.7955,True,14,5
+Poetry,Out of Print: City Lights Spotlight No. 14,53.64,319.158,True,8,5
+Poetry,Les Fleurs du Mal,29.04,172.788,True,8,5
+Poetry,Howl and Other Poems,40.45,240.67750000000004,True,8,2
+Poetry,Leave This Song Behind: Teen Poetry at Its Best,51.17,304.4615,True,7,5
+Poetry,The Collected Poems of W.B. Yeats (The Collected Works of W.B. Yeats #1),15.42,91.749,True,6,5
+Poetry,The Crossover,38.77,230.68150000000003,True,5,4
+Poetry,Booked,17.49,104.0655,True,5,5
+Poetry,Twenty Love Poems and a Song of Despair,30.95,184.1525,True,1,4
+Paranormal,"Vampire Knight, Vol. 1 (Vampire Knight #1)",15.4,91.63000000000001,True,1,1
+Art,Wall and Piece,44.18,262.871,True,18,4
+Art,Feathers: Displays of Brilliant Plumage,49.05,291.84749999999997,True,14,3
+Art,Art and Fear: Observations on the Perils (and Rewards) of Artmaking,48.63,289.3485,True,9,4
+Art,The New Drawing on the Right Side of the Brain,43.02,255.96900000000002,True,8,3
+Art,History of Beauty,10.29,61.2255,True,8,4
+Art,The Story of Art,41.14,244.78300000000002,True,7,4
+Art,The Art Book,32.34,192.42300000000003,True,7,2
+Art,Ways of Seeing,39.51,235.0845,True,1,5
+Psychology,The Lucifer Effect: Understanding How Good People Turn Evil,10.4,61.88,True,14,1
+Psychology,The Golden Condom: And Other Essays on Love Lost and Found,39.43,234.6085,True,12,1
+Psychology,It Didn't Start with You: How Inherited Family Trauma Shapes Who We Are and How to End the Cycle,56.27,334.8065,True,11,3
+Psychology,An Unquiet Mind: A Memoir of Moods and Madness,21.3,126.73500000000001,True,6,3
+Psychology,"Thinking, Fast and Slow",21.14,125.783,True,3,1
+Psychology,Civilization and Its Discontents,59.95,356.70250000000004,True,3,2
+Psychology,8 Keys to Mental Health Through Exercise,31.04,184.688,True,3,1
+Autobiography,The Argonauts,10.93,65.0335,True,15,2
+Autobiography,M Train,27.18,161.721,True,11,1
+Autobiography,Lab Girl,40.85,243.0575,True,11,1
+Autobiography,Approval Junkie: Adventures in Caring Too Much,58.81,349.9195,True,5,5
+Autobiography,Running with Scissors,12.91,76.81450000000001,True,3,4
+Autobiography,Me Talk Pretty One Day,57.6,342.72,True,3,2
+Autobiography,Lust & Wonder,11.87,70.6265,True,3,2
+Autobiography,Life Without a Recipe,59.04,351.288,True,3,5
+Autobiography,A Heartbreaking Work of Staggering Genius,54.29,323.0255,True,3,5
+Parenting,Catastrophic Happiness: Finding Joy in Childhood's Messy Years,37.35,222.23250000000002,True,3,2
+Adult Fiction,Fifty Shades Freed (Fifty Shades #3),15.36,91.392,True,3,5
+Humor,The Long Haul (Diary of a Wimpy Kid #9),44.07,262.2165,True,14,1
+Humor,Old School (Diary of a Wimpy Kid #10),11.83,70.38850000000001,True,14,5
+Humor,I Know What I'm Doing -- and Other Lies I Tell Myself: Dispatches from a Life Under Construction,25.98,154.58100000000002,True,14,4
+Humor,"Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened",14.75,87.7625,True,14,5
+Humor,Dress Your Family in Corduroy and Denim,43.68,259.896,True,9,3
+Humor,Toddlers Are A**holes: It's Not Your Fault,25.55,152.0225,True,7,1
+Humor,When You Are Engulfed in Flames,30.89,183.7955,True,3,5
+Humor,Naked,31.69,188.55550000000002,True,3,3
+Humor,"Lamb: The Gospel According to Biff, Christ's Childhood Pal",55.5,330.225,True,3,5
+Humor,Holidays on Ice,51.07,303.86650000000003,True,3,2
+Horror,Security,39.25,233.5375,True,16,2
+Horror,Follow You Home,21.36,127.092,True,15,1
+Horror,The Loney,23.4,139.23,True,14,1
+Horror,Pet Sematary,10.56,62.83200000000001,True,14,3
+Horror,Doctor Sleep (The Shining #2),40.12,238.714,True,14,2
+Horror,Psycho: Sanitarium (Psycho #1.5),36.97,219.9715,True,12,5
+Horror,Can You Keep a Secret? (Fear Street Relaunch #4),48.64,289.408,True,12,1
+Horror,Red Dragon (Hannibal Lecter #1),23.37,139.0515,True,5,3
+Horror,Dracula the Un-Dead,35.63,211.99850000000004,True,5,5
+Horror,Night Shift (Night Shift #1-20),12.75,75.8625,True,4,4
+Horror,Needful Things,47.51,282.6845,True,4,4
+Horror,Misery,34.79,207.0005,True,4,2
+Horror,It,25.01,148.8095,True,4,3
+Horror,'Salem's Lot,49.56,294.882,True,4,4
+Horror,The Stand,57.86,344.267,True,3,2
+Horror,The Girl with All the Gifts,49.47,294.3465,True,3,3
+Horror,House of Leaves,54.89,326.5955,True,3,1
+History,Sapiens: A Brief History of Humankind,54.23,322.6685,True,20,5
+History,"Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",25.52,151.844,True,16,1
+History,The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind,19.73,117.3935,True,16,1
+History,"Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics",36.28,215.866,True,16,2
+History,Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History,59.64,354.858,True,15,1
+History,Zealot: The Life and Times of Jesus of Nazareth,24.7,146.965,True,14,3
+History,A Distant Mirror: The Calamitous 14th Century,14.58,86.751,True,14,3
+History,1491: New Revelations of the Americas Before Columbus,21.8,129.71,True,14,3
+History,Brilliant Beacons: A History of the American Lighthouse,11.45,68.1275,True,8,3
+History,"""Most Blessed of the Patriarchs"": Thomas Jefferson and the Empire of the Imagination",44.48,264.656,True,8,5
+History,A Short History of Nearly Everything,52.4,311.78,True,7,5
+History,The Rise and Fall of the Third Reich: A History of Nazi Germany,39.67,236.03650000000002,True,6,2
+History,Catherine the Great: Portrait of a Woman,58.55,348.3725,True,6,4
+History,The Mathews Men: Seven Brothers and the War Against Hitler's U-boats,42.91,255.31449999999998,True,5,5
+History,The Hiding Place,55.91,332.6645,True,5,4
+History,America's War for the Greater Middle East: A Military History,51.22,304.759,True,5,2
+History,The Guns of August,14.54,86.51299999999999,True,3,2
+History,"House of Lost Worlds: Dinosaurs, Dynasties, and the Story of Life on Earth",43.7,260.01500000000004,True,3,2
+Food and Drink,"Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",30.52,181.594,True,19,3
+Food and Drink,"The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",56.41,335.6395,True,16,1
+Food and Drink,My Paris Kitchen: Recipes and Stories,33.37,198.5515,True,16,2
+Food and Drink,"Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed",14.02,83.419,True,16,4
+Food and Drink,"Layered: Baking, Building, and Styling Spectacular Cakes",40.11,238.6545,True,16,1
+Food and Drink,The Nerdy Nummies Cookbook: Sweet Treats for the Geek in All of Us,37.34,222.17300000000003,True,15,5
+Food and Drink,The Love and Lemons Cookbook: An Apple-to-Zucchini Celebration of Impromptu Cooking,37.6,223.72000000000003,True,15,2
+Food and Drink,The Cookies & Cups Cookbook: 125+ sweet & savory recipes reminding you to Always Eat Dessert First,41.25,245.4375,True,15,1
+Food and Drink,"Deliciously Ella Every Day: Quick and Easy Recipes for Gluten-Free Snacks, Packed Lunches, and Simple Meals",42.16,250.85199999999998,True,15,3
+Food and Drink,The Help Yourself Cookbook for Kids: 60 Easy Plant-Based Recipes Kids Can Make to Stay Healthy and Save the Earth,28.77,171.1815,True,14,3
+Food and Drink,"It's All Easy: Healthy, Delicious Weeknight Meals in under 30 Minutes",19.55,116.3225,True,14,1
+Food and Drink,Barefoot Contessa Back to Basics,28.01,166.6595,True,14,1
+Food and Drink,Barefoot Contessa at Home: Everyday Recipes You'll Make Over and Over Again,50.62,301.189,True,14,5
+Food and Drink,My Kitchen Year: 136 Recipes That Saved My Life,11.53,68.6035,True,13,2
+Food and Drink,Everyday Italian: 125 Simple and Delicious Recipes,20.1,119.59500000000001,True,12,5
+Food and Drink,"A la Mode: 120 Recipes in 60 Pairings: Pies, Tarts, Cakes, Crisps, and More Topped with Ice Cream, Gelato, Frozen Custard, and More",38.77,230.68150000000003,True,12,1
+Food and Drink,Cravings: Recipes for What You Want to Eat,20.5,121.97500000000001,True,11,3
+Food and Drink,"The Moosewood Cookbook: Recipes from Moosewood Restaurant, Ithaca, New York",12.34,73.423,True,9,4
+Food and Drink,32 Yolks,53.63,319.0985,True,8,2
+Food and Drink,"Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based Recipes--All Under 300 Calories",11.38,67.71100000000001,True,7,5
+Christian Fiction,Redeeming Love,20.47,121.7965,True,15,5
+Christian Fiction,Close to You,49.46,294.28700000000003,True,15,4
+Christian Fiction,Shadows of the Past (Logan Point #1),39.67,236.03650000000002,True,8,5
+Christian Fiction,Like Never Before (Walker Family #2),28.77,171.1815,True,7,2
+Christian Fiction,Counted With the Stars (Out from Egypt #1),17.97,106.9215,True,7,5
+Christian Fiction,If I Run (If I Run #1),49.97,297.3215,True,3,4
+Business,The Dirty Little Secrets of Getting Your Dream Job,33.34,198.37300000000002,True,19,4
+Business,The Third Wave: An Entrepreneur’s Vision of the Future,12.61,75.0295,True,15,5
+Business,The 10% Entrepreneur: Live Your Startup Dream Without Quitting Your Day Job,27.55,163.9225,True,15,3
+Business,Shoe Dog: A Memoir by the Creator of NIKE,23.99,142.7405,True,15,2
+Business,Made to Stick: Why Some Ideas Survive and Others Die,38.85,231.15750000000003,True,14,5
+Business,Quench Your Own Thirst: Business Lessons Learned Over a Beer or Two,43.14,256.683,True,12,1
+Business,The Art of Startup Fundraising,21.0,124.95,True,11,3
+Business,Born for This: How to Find the Work You Were Meant to Do,21.59,128.4605,True,11,5
+Business,The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It,36.91,219.6145,True,8,1
+Business,"Rich Dad, Poor Dad",51.74,307.853,True,7,1
+Business,The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses,33.92,201.824,True,3,3
+Business,Rework,44.88,267.036,True,3,2
+Biography,Louisa: The Extraordinary Life of Mrs. Adams,16.85,100.25750000000001,True,15,2
+Biography,"Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",21.15,125.8425,True,11,2
+Biography,The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist,39.55,235.3225,True,7,1
+Biography,Benjamin Franklin: An American Life,48.19,286.7305,True,7,3
+Biography,The Rise of Theodore Roosevelt (Theodore Roosevelt #1),42.57,253.2915,True,3,3
+Thriller,In Her Wake,12.84,76.398,True,19,1
+Thriller,The Elephant Tree,23.82,141.729,True,18,5
+Thriller,Behind Closed Doors,52.22,310.709,True,18,4
+Thriller,You (You #1),43.61,259.47950000000003,True,14,5
+Thriller,The Guilty (Will Robie #4),13.82,82.229,True,14,2
+Thriller,The 14th Colony (Cotton Malone #11),39.24,233.478,True,14,1
+Thriller,Give It Back,18.32,109.004,True,6,2
+Thriller,Killing Floor (Jack Reacher #1),31.49,187.3655,True,5,4
+Thriller,The Bone Hunters (Lexy Vaughan & Steven Macaulay #2),59.71,355.2745,True,4,3
+Thriller,Far From True (Promise Falls Trilogy #2),34.93,207.83350000000002,True,4,2
+Thriller,The Travelers,15.77,93.8315,True,3,1
+Contemporary,When We Collided,31.77,189.0315,True,16,1
+Contemporary,Someone Like You (The Harrisons #2),52.79,314.1005,True,14,5
+Contemporary,We Are All Completely Beside Ourselves,24.04,143.038,True,3,1
+Spirituality,The Four Agreements: A Practical Guide to Personal Freedom,17.66,105.077,True,18,5
+Spirituality,The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution,32.24,191.82800000000003,True,16,5
+Spirituality,Chasing Heaven: What Dying Taught Me About Living,37.8,224.91,True,15,2
+Spirituality,If I Gave You God's Phone Number....: Searching for Spirituality in America,20.91,124.4145,True,9,1
+Spirituality,Unreasonable Hope: Finding Faith in the God Who Brings Purpose to Your Pain,46.33,275.6635,True,7,2
+Spirituality,A New Earth: Awakening to Your Life's Purpose,55.65,331.1175,True,4,5
+Academic,Logan Kade (Fallen Crest High #5.5),13.12,78.064,True,5,2
+Self Help,Online Marketing for Busy Authors: A Step-By-Step Guide,46.35,275.7825,True,16,1
+Self Help,How to Be Miserable: 40 Strategies You Already Use,46.03,273.87850000000003,True,16,1
+Self Help,"Overload: How to Unplug, Unwind, and Unleash Yourself from the Pressure of Stress",52.15,310.2925,True,14,3
+Self Help,You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life,12.08,71.876,True,7,3
+Self Help,How to Stop Worrying and Start Living,46.49,276.6155,True,6,5
+Historical,All the Light We Cannot See,29.87,177.72650000000002,True,14,5
+Historical,The Girl You Left Behind (The Girl You Left Behind #1),15.79,93.95049999999999,True,6,1
+Christian,(Un)Qualified: How God Uses Broken People to Do Big Things,54.0,321.3,True,16,5
+Christian,Crazy Love: Overwhelmed by a Relentless God,47.72,283.934,True,14,2
+Christian,Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality,25.77,153.3315,True,7,1
+Suspense,Silence in the Dark (Logan Point #4),58.33,347.0635,True,8,3
+Short Stories,The Grownup,35.88,213.48600000000002,True,8,1
+Novels,Suzie Snowflake: One beautiful flake (a self-esteem story),54.81,326.1195,True,9,5
+Health,"The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life",49.05,291.84749999999997,True,16,3
+Health,"Eat Fat, Get Thin",54.07,321.7165,True,14,2
+Health,10-Day Green Smoothie Cleanse: Lose Up to 15 Pounds in 10 Days!,49.71,295.7745,True,10,5
+Health,The Art and Science of Low Carbohydrate Living,52.98,315.231,True,9,5
+Politics,Libertarianism for Beginners,51.33,305.4135,True,19,2
+Politics,Why the Right Went Wrong: Conservatism--From Goldwater to the Tea Party and Beyond,52.65,313.2675,True,14,4
+Politics,Equal Is Unfair: America's Misguided Fight Against Income Inequality,56.86,338.317,True,12,1
+Cultural,Amid the Chaos,36.58,217.651,True,15,1
+Erotica,Dark Notes,19.19,114.18050000000001,True,15,5
+Crime,The Long Shadow of Small Ghosts: Murder and Memory in an American City,10.97,65.2715,True,15,1

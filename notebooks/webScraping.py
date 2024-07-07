@@ -1,9 +1,10 @@
+import pandas as pd
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
-from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from webdriver_manager.chrome import ChromeDriverManager
 
 def get_star_rating(class_string):
 
@@ -39,6 +40,8 @@ def webScraping(url):
         category_urls = [link.get_attribute("href") for link in category_links] #href das categorias
         category_names = [link.text.strip() for link in category_links]  # nome das categorias
 
+        data_books = [] # variável para armazenar os valores dos livros
+
         # utilizando a função zip para combinar os valores e pegando os valores de forma unitária (nome da categoria, href da categoria)
         for category_url, category_name in zip(category_urls, category_names):
             driver.get(category_url) # entrando na página da categoria utilizando o href
@@ -69,24 +72,32 @@ def webScraping(url):
                 star_rating_class = star_rating_element.get_attribute("class")
                 star_rating = get_star_rating(star_rating_class)
 
-                
-                print(f"Categoria: {category_name}")
-                print(f"Título: {title}")
-                print(f"Preço: {price}")
-                print(f"Estoque: {stock}")
-                print(f"Classificação: {star_rating}")
-                print("-" * 40)
 
+                # print(data_books)
+
+                data_books.append({ "Book_Title": title, "Book_Category": category_name, "Book_Price": price, "Book_Stock": stock, "Book_Rating": star_rating })
+                # adicionando JSON.
+                
                 # voltar para a página da categoria
                 driver.back()
 
                 # esperando dados da página de categoria carregar
                 WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, 'h3 > a')))
 
+    except Exception as e:
+        print(f"Erro durante o scraping: {e}")
+
     finally:
         # fechar o browser.
         driver.quit()
 
+    return data_books
+
+def createDataCSV():
+    res = webScraping("http://books.toscrape.com/")
+    df = pd.DataFrame(res)
+    df.to_csv('./data/d01_raw/books_data.csv', index=False)  # Adicionando index=False para não incluir o índice no CSV
 
 
-webScraping("http://books.toscrape.com/")
+createDataCSV()
+
