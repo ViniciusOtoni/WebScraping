@@ -96,7 +96,7 @@ def webScraping(url):
 def createDataCSV():
     res = webScraping("http://books.toscrape.com/")
     df = pd.DataFrame(res)
-    df.to_csv('./data/d01_raw/books_data.csv', index=False)  # Adicionando index=False para não incluir o índice no CSV
+    df.to_csv('../data/d01_raw/books_data.csv', index=False)  # Adicionando index=False para não incluir o índice no CSV
 
 
 createDataCSV()
